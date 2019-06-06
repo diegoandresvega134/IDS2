@@ -1,0 +1,11 @@
+.header-title {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(223, 233, 223);
+    color: red;
+}
+
+#questionID {
+    font-weight: bold;
+    font-size: 17px;
+}
